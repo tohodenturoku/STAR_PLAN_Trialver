@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - Enemy
+  - JumpZone
+  - BigJMP
+  - SmallJMP
+  - SuperBigJMP
+  - Marisa
+  - EnableTrack
+  - GoLeft
+  - GoRight
+  - field
+  - Border
+  - iceshot
+  - IceFloor
+  - EnemyBullet
+  - iceball
+  - Bom
+  - Star_Bullet
+  - Reflector
+  - VariableJMP
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - TrapLayer_Slow
+  - AccelerateLayer
+  - Charactor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Beam1
+  - Beam2
+  - Beam3
+  - Beam4
+  - Beam5
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4211090907
+    locked: 0
+  - name: Trap
+    uniqueID: 2611318659
+    locked: 0
+  - name: Charactor
+    uniqueID: 514285855
+    locked: 0
+  - name: Beam1
+    uniqueID: 1658911145
+    locked: 0
+  - name: Beam2
+    uniqueID: 3193671777
+    locked: 0
+  - name: Beam3
+    uniqueID: 1810649063
+    locked: 0
+  - name: Beam4
+    uniqueID: 780431421
+    locked: 0
+  - name: Beam5
+    uniqueID: 486091881
+    locked: 0
